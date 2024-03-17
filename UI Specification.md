@@ -17,12 +17,12 @@
 > 3. Hide Disabled User Checkbox: Option to hide disabled users.
 > 4. Save User Button: The button where the user whose relevant information is entered is saved and added to the table.
 > 5. New User Form: A form used to add user details, including fields. This fields:
->   - **Username:** Users' names are written into the textfiel
->   - **Display Name:** The name of the users that you want to display on the screen is written into the textfield.
->   - **Phone:** The phone number of the users is written into the textfield.
->   - **Email:** Users' e-mail addresses are written into the textfield.
->   - **User Roles:** The roles the users have (Guest, Admin, SuperAdmin) are selected from the combobox.
->   - **Enabled:** Whether users are active or inactive (access restricted) is marked via the checkbox.
+>     - **Username:** Users' names are written into the textfiel
+>     - **Display Name:** The name of the users that you want to display on the screen is written into the textfield.
+>     - **Phone:** The phone number of the users is written into the textfield.
+>     - **Email:** Users' e-mail addresses are written into the textfield.
+>     - **User Roles:** The roles the users have (Guest, Admin, SuperAdmin) are selected from the combobox.
+>     - **Enabled:** Whether users are active or inactive (access restricted) is marked via the checkbox.
 
 > ## Behaviour of the Page
 > - At startup, the user management screen displays a list of existing user accounts with their information (ID, User Name, Email, Enabled) in the table.
