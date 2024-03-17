@@ -24,7 +24,7 @@
 >     - **User Roles:** The roles the users have (Guest, Admin, SuperAdmin) are selected from the combobox.
 >     - **Enabled:** Whether users are active or inactive (access restricted) is marked via the checkbox.
 
-> ## Behaviour of the Page
+> ## Behavior of the Page
 > - At startup, the user management screen displays a list of existing user accounts with their information (ID, User Name, Email, Enabled) in the table.
 > - When you click on the **New User** button, the user form opens on the right side of the screen to add a new user account.
 > - When the **Hide Disabled User** Checkbox is checked, users whose Enabled property is false in the user list on the left will be hidden.
