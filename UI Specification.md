@@ -8,7 +8,7 @@
 
 > ## UI Components
 > The user management screen consists of the following components:
-
+> 
 > 1. User List: View existing user accounts.
 > 2. New User Button: The button where the information that must be entered for a new user is displayed.
 > 3. Hide Disabled User Checkbox: Option to hide disabled users.
@@ -28,4 +28,4 @@
 > - After clicking on the New User button and filling in the information in the New User form on the right, the user is registered to the system with the **Save User button** that appears on the top right.
 
 > ## Initial Display
-After loading the user management screen, the list table of existing user accounts and information, the New User button and the Hide Disabled User option are displayed at the top.
+> After loading the user management screen, the list table of existing user accounts and information, the New User button and the Hide Disabled User option are displayed at the top.
