@@ -31,4 +31,4 @@
 > After loading the user management screen, the list table of existing user accounts and information, the New User button and the Hide Disabled User option are displayed at the top.
 
 ## User Management Screen 
-![User Management Screen](link_to_mockup_image)
+![User Management Screen](screen UI.png)
