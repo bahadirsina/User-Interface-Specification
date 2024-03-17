@@ -1,4 +1,4 @@
-> # User-Interface-Specification
+# User-Interface-Specification
 
 > ## Requirements
 > The user management screen should allow administrators to perform Create and Read operations on user accounts. Specific requirements include:
