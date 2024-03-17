@@ -17,7 +17,7 @@
 > 3. Hide Disabled User Checkbox: Option to hide disabled users.
 > 4. Save User Button: The button where the user whose relevant information is entered is saved and added to the table.
 > 5. New User Form: A form used to add user details, including fields. This fields:
->     - **Username:** Users' names are written into the textfiel
+>     - **Username:** Users' names are written into the textfield.
 >     - **Display Name:** The name of the users that you want to display on the screen is written into the textfield.
 >     - **Phone:** The phone number of the users is written into the textfield.
 >     - **Email:** Users' e-mail addresses are written into the textfield.
